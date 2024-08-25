@@ -2,7 +2,6 @@
 <br>
 
 - ✔ I’m currently studying Computer Science @UFPE, Brazil
-- ✔ I’m currently learning JavaScript and C++
 - ✔ How to reach me: renatom.sandrade@gmail.com
 <br>
 
